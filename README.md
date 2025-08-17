@@ -148,9 +148,9 @@ This portfolio showcases a comprehensive collection of sophisticated n8n automat
 
 ## 📫 Contact
 
-- **LinkedIn:** [Tanveer Hussain](https://www.linkedin.com/in/tanveer-hussain-277119196/)
-- **Upwork:** [Profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
-- **Email:** [agapaitanveermou@gmail.com](mailto:agapaitanveermou@gmail.com)
+- **LinkedIn:** [Tushar Anand](https://www.linkedin.com/in/tushar-anand-470558230/)
+
+- **Email:** [tusharanand797@gmail.com](mailto:tusharanand797@gmailcom)
 
 ## 🔒 License
 
