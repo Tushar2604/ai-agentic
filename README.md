@@ -2,9 +2,7 @@
 
 ## Professional n8n Automation Engineer & Integration Specialist
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tanveer-hussain-277119196/)
-[![Upwork](https://img.shields.io/badge/Upwork-Hire-green)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:agapaitanveermou@gmail.com)
+
 
 ## 🚀 Featured Automation Projects
 
